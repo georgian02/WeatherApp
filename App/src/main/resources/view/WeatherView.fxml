@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane prefHeight="300.0" prefWidth="450.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ComboBox fx:id="country_box" layoutX="40.0" layoutY="38.0" prefWidth="150.0" promptText="Country" AnchorPane.leftAnchor="40.0" AnchorPane.topAnchor="38.0" />
+      <ComboBox fx:id="city_box" layoutX="254.0" layoutY="38.0" prefWidth="150.0" promptText="City" AnchorPane.rightAnchor="40.0" AnchorPane.topAnchor="38.0" />
+
+      <Label fx:id="iconLbl" AnchorPane.leftAnchor="40.0" AnchorPane.topAnchor="88.0" />
+
+      <Label layoutX="224.0" layoutY="88.0" text="Temperature:" AnchorPane.leftAnchor="228.8" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="88.0"> </Label>
+      <Label fx:id="TemperatureLbl" AnchorPane.leftAnchor="305.0" AnchorPane.topAnchor="88.0"> </Label>
+      <Label text="Humidity:" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="108.0"> </Label>
+      <Label fx:id="HumidityLbl" AnchorPane.leftAnchor="305.0" AnchorPane.topAnchor="108.0"> </Label>
+      <Label text="Wind:" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="128.0"> </Label>
+      <Label fx:id="WindLbl" AnchorPane.leftAnchor="305.0" AnchorPane.topAnchor="128.0"> </Label>
+      <Label text="Description:" AnchorPane.rightAnchor="150.0" AnchorPane.topAnchor="148.0"> </Label>
+      <Label fx:id="DescriptionLbl" AnchorPane.leftAnchor="305.0" AnchorPane.topAnchor="148.0"> </Label>
+
+   </children>
+</AnchorPane>
