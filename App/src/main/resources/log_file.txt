@@ -4,28 +4,3 @@ RU		Moscow	-15.56°C		78%		 5km/h	snow
 RU		Razvilka	-15.56°C		85%		 5km/h	snow
 RU		Moscow	-15.56°C		78%		 5km/h	snow
 FR		Tarascon	3°C		69%		 2.06km/h	clear sky
-FR		Ploufragan	8.33°C		93%		 3.09km/h	broken clouds
-RU		Razvilka	-15.56°C		85%		 5km/h	snow
-HU		Budapest	-2.22°C		68%		 5.14km/h	clear sky
-RU		Razvilka	-16°C		78%		 5km/h	snow
-FR		Ploufragan	5.56°C		100%		 3.6km/h	clear sky
-IT		Milan	2.78°C		93%		 1.03km/h	clear sky
-IT		Rome	6°C		49%		 3.6km/h	overcast clouds
-TH		Phuket	25°C		83%		 1.54km/h	few clouds
-TH		BangKok	27.22°C		83%		 1.73km/h	few clouds
-TH		Phuket	25°C		83%		 1.54km/h	few clouds
-TH		BangKok	27.22°C		83%		 1.73km/h	few clouds
-US		Chicago	3.33°C		75%		 4.63km/h	overcast clouds
-US		Boston	9°C		76%		 7.2km/h	scattered clouds
-TH		BangKok	27.22°C		83%		 1.73km/h	few clouds
-TH		Phuket	25°C		83%		 1.54km/h	few clouds
-IT		Milan	2.78°C		93%		 1.03km/h	clear sky
-IT		Rome	6°C		49%		 3.6km/h	overcast clouds
-RO		Bucharest	-3.33°C		79%		 2.06km/h	clear sky
-RO		Braila	-7°C		68%		 6.69km/h	broken clouds
-EG		Cairo	17°C		36%		 5.14km/h	clear sky
-EG		Giza	17°C		36%		 5.14km/h	clear sky
-EG		Cairo	17°C		36%		 5.14km/h	clear sky
-EG		Giza	17°C		36%		 5.14km/h	clear sky
-EG		Cairo	17°C		36%		 5.14km/h	clear sky
-EG		Giza	17°C		36%		 5.14km/h	clear sky

@@ -23,3 +23,9 @@ IT		Milan	2.78°C		93%		 1.03km/h	clear sky
 IT		Rome	6°C		49%		 3.6km/h	overcast clouds
 RO		Bucharest	-3.33°C		79%		 2.06km/h	clear sky
 RO		Braila	-7°C		68%		 6.69km/h	broken clouds
+EG		Cairo	17°C		36%		 5.14km/h	clear sky
+EG		Giza	17°C		36%		 5.14km/h	clear sky
+EG		Cairo	17°C		36%		 5.14km/h	clear sky
+EG		Giza	17°C		36%		 5.14km/h	clear sky
+EG		Cairo	17°C		36%		 5.14km/h	clear sky
+EG		Giza	17°C		36%		 5.14km/h	clear sky
